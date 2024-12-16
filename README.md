@@ -41,6 +41,7 @@
  <img align="center" alt="AWS Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 </div>
 <br>
+
 ### Outras Linguagens e Ferramentas já vistas...
 <div style="display: inline_block">
   <img align="center" alt="NPM Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
