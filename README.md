@@ -56,6 +56,7 @@
 <br>
 <h2></h2>
 <h3>Connect with me on <a href="https://linkedin.com/in/patricklimax" target="blank">LINKEDIN</a></h3>
+<h2></h2>
 
 <br>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=patricklimax&show_icons=true&locale=en&layout=compact" alt="patricklimax" /></p>
