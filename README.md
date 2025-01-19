@@ -1,8 +1,8 @@
 
-# Hi, I'm Patrick 👋
+Hi, I'm Patrick 👋
 
 <h2></h2>
-## 👨🏻‍💻 Front-end Developer (Full Stack is right there 🚀)
+#👨🏻‍💻 Front-end Developer (Full Stack is right there 🚀)
 <h2></h2>
 
 <div style="display: inline_block">
