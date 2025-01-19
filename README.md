@@ -4,7 +4,7 @@
 
 <h2> 🔭 Front-end Developer (Full Stack is right there 🚀) </h2>
 
-### I learned about...
+<h3>I learned about...</h3>
 <div style="display: inline_block">
   <img align="center" alt="HTML5 Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3 Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
@@ -15,7 +15,7 @@
 </div>
 <br>
 
-### I'm learning about...
+<h3>I'm learning about...</h3>
 <div style="display: inline_block">
   <img align="center" alt="Ícone ReactJS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Ícone TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
@@ -23,7 +23,7 @@
 </div>
 <br>
 
-### Next level...
+<h3>Next level...</h3>
 <div style="display: inline_block">
   <img align="center" alt="NodeJS Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Express Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
@@ -33,8 +33,7 @@
 </div>
 <br>
 
-
-### I am interested in...
+<h3>I am interested in...</h3>
 <div style="display: inline_block">
   <img align="center" alt="Firebase Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
   <img align="center" alt="Figma Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
@@ -43,7 +42,7 @@
 </div>
 <br>
 
-### Other Languages ​​and Tools already seen...
+<h3>Other Languages ​​and Tools already seen...</h3>
 <div style="display: inline_block">
   <img align="center" alt="Axios Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" />
   <img align="center" alt="NPM Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
@@ -55,8 +54,10 @@
   <img align="center" alt="VScode Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 </div>
 <br>
+<hr>
 <h1>
     Connect with me on<a href="https://linkedin.com/in/patricklimax" target="blank">LINKED<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patricklimax" height="25" width="32" /></a>
 </h1>
+<hr>
 <br>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=patricklimax&show_icons=true&locale=en&layout=compact" alt="patricklimax" /></p>
