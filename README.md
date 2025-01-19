@@ -55,9 +55,9 @@
 </div>
 <br>
 <hr>
-<h2>
+<h3>
     Connect with me on<a href="https://linkedin.com/in/patricklimax" target="blank">LINKED<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patricklimax" height="25" width="32" /></a>
-</h2>
-<hr>
+</h3>
+
 <br>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=patricklimax&show_icons=true&locale=en&layout=compact" alt="patricklimax" /></p>
