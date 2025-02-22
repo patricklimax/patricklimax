@@ -60,7 +60,3 @@
 
 <br>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=patricklimax&show_icons=true&locale=en&layout=compact" alt="patricklimax" /></p>
-
-### 📊 Estatísticas do GitHub  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical&hide_title=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)  
