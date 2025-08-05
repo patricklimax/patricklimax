@@ -2,7 +2,7 @@
   Hi, I'm Patrick 👋
 </h1>
 
-<h2  align="center">👨🏻‍💻 Front-end Developer (Full Stack is right there 🚀) </h2>
+<h2  align="center">👨🏻‍💻 Software Developer 🚀 </h2>
 
 <div style="display: inline_block">
   <h3>👉🏻 I learned about...</h3>
