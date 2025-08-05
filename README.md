@@ -1,36 +1,20 @@
 <br clear="both">
 
-<h2 align="center">Eu sou Patrick</h2>
-
-###
-
 <div align="center">
   <img height="150" src="https://patricklimax.vercel.app/avatar.svg"  />
 </div>
 
 ###
 
-<br clear="both">
-
-<h2 align="center">Software Developer.<br>I'm passionate about continuous learning and always striving for the next level.<br>I believe that technology is a tool that drives change.</h2>
+<h2 align="center">I'am Patrick</h2>
 
 ###
 
-<h4 align="center">I developed valuable skills such as adaptability, attention to detail, analytical thinking, effective written communication, and emotional intelligence. These competencies were essential for my career transition into technology, which began in 2022. Today, I apply this skill set, combined with programming logic, to develop innovative and efficient applications.<br><br>I am passionate about continuous learning and am always seeking the next level within the JavaScript ecosystem and its most modern technologies. I am currently honing my skills as a Front-end Developer, using tools such as React, TypeScript, Tailwind CSS, as well as libraries such as Zod, React Hook Form, Zustand, TanStackQuery, React Router, and Vite. I have applied this knowledge to personal projects, creating interactive and high-performance solutions—and now, in practice, as a developer.<br><br>My main goal is to become an excellent Full-Stack Developer. In addition to my studies, I've been putting my back-end knowledge to practical use, exploring tools like Node.js, NestJS, PostgreSQL, TypeORM, Dokcer, Google Cloud Platform, and testing with Jest. Furthermore, I aim to improve best practices in security, deployment, infrastructure, scalability, and performance optimization, contributing to robust and efficient solutions across the entire software architecture.</h4>
+<h2 align="center">Software Developer</h2>
 
 ###
 
-<p align="center"></p>
-
-###
-
-<h1 align="left">I work with</h1>
-
-###
-
-<br clear="both">
-
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
@@ -56,15 +40,19 @@
 
 ###
 
-<p align="center"></p>
+<h3 align="center">I'm passionate about continuous learning and always striving for the next level.<br>I believe that technology is a tool that drives change.</h3>
 
 ###
 
-<h1 align="left">Tools I use</h1>
+<h5 align="center">I developed valuable skills such as adaptability, attention to detail, analytical thinking, effective written communication, and emotional intelligence. These competencies were essential for my career transition into technology, which began in 2022. Today, I apply this skill set, combined with programming logic, to develop innovative and efficient applications.<br><br>I am passionate about continuous learning and am always seeking the next level within the JavaScript ecosystem and its most modern technologies. I am currently honing my skills as a Front-end Developer, using tools such as React, TypeScript, Tailwind CSS, as well as libraries such as Zod, React Hook Form, Zustand, TanStackQuery, React Router, and Vite. I have applied this knowledge to personal projects, creating interactive and high-performance solutions—and now, in practice, as a developer.<br><br>My main goal is to become an excellent Full-Stack Developer. In addition to my studies, I've been putting my back-end knowledge to practical use, exploring tools like Node.js, NestJS, PostgreSQL, TypeORM, Dokcer, Google Cloud Platform, and testing with Jest. Furthermore, I aim to improve best practices in security, deployment, infrastructure, scalability, and performance optimization, contributing to robust and efficient solutions across the entire software architecture.</h5>
 
 ###
 
 <br clear="both">
+
+###
+
+<h1 align="left">Tools I use</h1>
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo"  />
@@ -90,11 +78,11 @@
 
 ###
 
-<h1 align="left">I learned a little</h1>
+<br clear="both">
 
 ###
 
-<br clear="both">
+<h1 align="left">I learned a little</h1>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
@@ -122,15 +110,11 @@
 
 ###
 
-<p align="center"></p>
+<br clear="both">
 
 ###
 
 <h1 align="left">I am interested</h1>
-
-###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
@@ -139,22 +123,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  />
 </div>
-
-###
-
-<p align="center"></p>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patricklimax/patricklimax/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patricklimax/patricklimax/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/patricklimax/patricklimax/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<p align="center"></p>
 
 ###
 
