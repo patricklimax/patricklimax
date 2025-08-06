@@ -1,12 +1,12 @@
 <br clear="both">
 
-<div align="right">
-  <img height="50" src="https://patricklimax.vercel.app/avatar.svg"  />
-</div>
+<img align="right" height="75" src="https://patricklimax.vercel.app/avatar.svg"  />
 
 ###
 
-<h2 align="center">I'am Patrick</h2>
+<h1 align="center">I'am Patrick</h1>
+
+###
 
 ###
 
