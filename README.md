@@ -1,16 +1,12 @@
 <br clear="both">
 
-<img align="right" height="75" src="https://patricklimax.vercel.app/avatar.svg"  />
+###
+
+<h1 align="center">I'am Patrick<img align="center" height="70" src="https://patricklimax.vercel.app/avatar.svg"  /></h1>
 
 ###
 
-<h1 align="center">I'am Patrick</h1>
-
-###
-
-###
-
-<h2 align="center">Software Developer</h2>
+<h1 align="center">Software Developer</h1>
 
 ###
 
