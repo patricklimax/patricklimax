@@ -1,7 +1,7 @@
 <br clear="both">
 
-<div align="center">
-  <img height="150" src="https://patricklimax.vercel.app/avatar.svg"  />
+<div align="right">
+  <img height="50" src="https://patricklimax.vercel.app/avatar.svg"  />
 </div>
 
 ###
